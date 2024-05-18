@@ -16,3 +16,7 @@ pickleshare
 torch
 torchvision
 nb-clean
+fastapi
+uvicorn
+tensorflow
+keras
